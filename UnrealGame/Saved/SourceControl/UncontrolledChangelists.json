@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/LevelPrototyping/Materials/M_Solid_Red.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/LevelPrototyping/Materials/M_Solid.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/4G/O7ENB0NU640KPRV676PJV9.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BF/BCYWH5UCY8ZZVDL8BBZLH5.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/UnrealGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset"
+			]
+		}
+	]
+}
