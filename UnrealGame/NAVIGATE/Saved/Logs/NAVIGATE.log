@@ -8919,3 +8919,48 @@ Script Stack (0 frames) :
 [2024.02.07-15.11.43:945][288]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Main-Menu/MainMenu_Auto0
 [2024.02.07-15.11.43:945][288]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Saved/MainMenu_Auto0741128F54263B312BE90B4AC4AE5BDF1.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Saved/Autosaves/Game/UI/Main-Menu/MainMenu_Auto0.uasset'
 [2024.02.07-15.11.43:945][288]LogFileHelpers: Auto-saving content packages took 0.044
+[2024.02.07-15.13.16:576][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-15.13.16:601][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main-Menu/MainMenu" FILE="../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MainMenu.uasset" SILENT=true
+[2024.02.07-15.13.16:608][846]LogSavePackage: Moving output files for package: /Game/UI/Main-Menu/MainMenu
+[2024.02.07-15.13.16:608][846]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Saved/MainMenu1C9369B5402D7A4F307BCB932FD3A9A5.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MainMenu.uasset'
+[2024.02.07-15.13.16:616][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 53.4 sec)
+[2024.02.07-15.13.16:622][846]AssetCheck: New page: Asset Save: MainMenu
+[2024.02.07-15.13.16:622][846]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Main-Menu/MainMenu.MainMenu
+[2024.02.07-15.13.18:804][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.02.07-15.13.18:806][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-15.13.18:854][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels-W1/Lv1-1" FILE="../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/Levels-W1/Lv1-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.07-15.13.18:867][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.07-15.13.18:875][100]LogSavePackage: Moving output files for package: /Game/Levels-W1/Lv1-1
+[2024.02.07-15.13.18:876][100]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Saved/Lv1-1115A26F84B93E929A2562EB14D06D13D.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/Levels-W1/Lv1-1.umap'
+[2024.02.07-15.13.18:881][100]LogFileHelpers: Saving map 'Lv1-1' took 0.027
+[2024.02.07-15.13.18:881][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main-Menu/MM-BTN" FILE="../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MM-BTN.uasset" SILENT=true
+[2024.02.07-15.13.18:884][100]LogSavePackage: Moving output files for package: /Game/UI/Main-Menu/MM-BTN
+[2024.02.07-15.13.18:884][100]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Saved/MM-BTN0650F587475CDB5308EB339E495E5DFA.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MM-BTN.uasset'
+[2024.02.07-15.13.18:885][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels-W1/Materials/1-1" FILE="../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/Levels-W1/Materials/1-1.uasset" SILENT=true
+[2024.02.07-15.13.18:887][100]LogSavePackage: Moving output files for package: /Game/Levels-W1/Materials/1-1
+[2024.02.07-15.13.18:888][100]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Saved/1-13E4DBF5B4B3206FE8DEA8989FA8D7940.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/Levels-W1/Materials/1-1.uasset'
+[2024.02.07-15.13.18:889][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Fonts/Courgette-Regular_Font" FILE="../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Fonts/Courgette-Regular_Font.uasset" SILENT=true
+[2024.02.07-15.13.18:891][100]LogSavePackage: Moving output files for package: /Game/UI/Fonts/Courgette-Regular_Font
+[2024.02.07-15.13.18:891][100]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Saved/Courgette-Regular_Font6FDC31CE45984F4460AC8AAFCB68C50B.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Fonts/Courgette-Regular_Font.uasset'
+[2024.02.07-15.13.18:892][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main-Menu/MenuGM" FILE="../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MenuGM.uasset" SILENT=true
+[2024.02.07-15.13.18:895][100]LogSavePackage: Moving output files for package: /Game/UI/Main-Menu/MenuGM
+[2024.02.07-15.13.18:896][100]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Saved/MenuGM9A71275B499C4A4661B07A92ED1B541E.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MenuGM.uasset'
+[2024.02.07-15.13.18:896][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main-Menu/MM-BTN-HVR" FILE="../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MM-BTN-HVR.uasset" SILENT=true
+[2024.02.07-15.13.18:899][100]LogSavePackage: Moving output files for package: /Game/UI/Main-Menu/MM-BTN-HVR
+[2024.02.07-15.13.18:899][100]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Saved/MM-BTN-HVR5D682DD84F9F6B2E4A1C3F8886962649.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MM-BTN-HVR.uasset'
+[2024.02.07-15.13.18:900][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main-Menu/MM-BTN-CLK" FILE="../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MM-BTN-CLK.uasset" SILENT=true
+[2024.02.07-15.13.18:928][100]LogSavePackage: Moving output files for package: /Game/UI/Main-Menu/MM-BTN-CLK
+[2024.02.07-15.13.18:928][100]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Saved/MM-BTN-CLKF91B86E94CF224F3FEF9339C15296929.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MM-BTN-CLK.uasset'
+[2024.02.07-15.13.18:929][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/bye-bye-mewing_fMVssQz" FILE="../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/bye-bye-mewing_fMVssQz.uasset" SILENT=true
+[2024.02.07-15.13.18:931][100]LogSavePackage: Moving output files for package: /Game/UI/bye-bye-mewing_fMVssQz
+[2024.02.07-15.13.18:931][100]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Saved/bye-bye-mewing_fMVssQzC8D9B5D3488DDAF1541D6392E094EF30.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/bye-bye-mewing_fMVssQz.uasset'
+[2024.02.07-15.13.18:936][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 53.6 sec)
+[2024.02.07-15.13.18:939][100]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.07-15.13.18:939][100]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Levels-W1/Materials/1-1.1-1
+[2024.02.07-15.13.18:939][100]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels-W1/Lv1-1.Lv1-1
+[2024.02.07-15.13.18:939][100]LogContentValidation: Display: Validating /Script/MediaAssets.FileMediaSource /Game/UI/bye-bye-mewing_fMVssQz.bye-bye-mewing_fMVssQz
+[2024.02.07-15.13.18:939][100]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Main-Menu/MenuGM.MenuGM
+[2024.02.07-15.13.18:939][100]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UI/Main-Menu/MM-BTN-HVR.MM-BTN-HVR
+[2024.02.07-15.13.18:939][100]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UI/Main-Menu/MM-BTN-CLK.MM-BTN-CLK
+[2024.02.07-15.13.18:940][100]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UI/Main-Menu/MM-BTN.MM-BTN
+[2024.02.07-15.13.18:940][100]LogContentValidation: Display: Validating /Script/Engine.Font /Game/UI/Fonts/Courgette-Regular_Font.Courgette-Regular_Font
