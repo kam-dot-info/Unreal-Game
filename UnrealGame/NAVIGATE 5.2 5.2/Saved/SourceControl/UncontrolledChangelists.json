@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/c1208951/Documents/GitHub/Unreal-Game/UnrealGame/NAVIGATE 5.2/Content/Levels-W1/Materials/1-1.uasset",
+				"C:/Users/c1208951/Documents/GitHub/Unreal-Game/UnrealGame/NAVIGATE 5.2 5.2/Content/Levels-W1/Lv1-1.umap",
+				"C:/Users/c1208951/Documents/GitHub/Unreal-Game/UnrealGame/NAVIGATE 5.2 5.2/Content/UI/Main-Menu/MM-BTN.uasset",
+				"C:/Users/c1208951/Documents/GitHub/Unreal-Game/UnrealGame/NAVIGATE 5.2 5.2/Content/UI/Main-Menu/MM-BTN-CLK.uasset",
+				"C:/Users/c1208951/Documents/GitHub/Unreal-Game/UnrealGame/NAVIGATE 5.2 5.2/Content/UI/Main-Menu/MM-BTN-HVR.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/Levels-W1/Untitled_HLOD0_Instancing.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/__ExternalActors__/Levels-W1/Untitled/7/GU/MOPL8ENWLFEKDN5J776RNS.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/__ExternalObjects__/Levels-W1/Untitled/3/WG/XVD28IY7L363YWB0C7FHND.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/__ExternalObjects__/Levels-W1/Untitled/9/NW/SRMPW2P6TE6U8JNVN4S497.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/__ExternalObjects__/Levels-W1/Untitled/E/YV/9RQ182ILHRNADWXE88UJRO.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/__ExternalObjects__/Levels-W1/Untitled/C/AR/5IFAV83CSHLVB0RLCG0RWA.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/__ExternalObjects__/Levels-W1/Untitled/8/2C/IMWDG09X51WI17LYG99CXG.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/__ExternalActors__/Levels-W1/Untitled/1/MQ/DB8NSHUAPQZWZ5CFUM1MV4.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/__ExternalActors__/Levels-W1/Untitled/9/UQ/ITBLEYW3YZEFRK2QRX2M66.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/__ExternalActors__/Levels-W1/Untitled/2/IU/W5E2EIC77T44R3U9JWRSRM.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/__ExternalActors__/Levels-W1/Untitled/A/OD/9SDJ25FJZIZNIJFFNNX2I5.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/__ExternalActors__/Levels-W1/Untitled/7/8I/X3GTWQTLGDAXB5KYMU1TQY.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/__ExternalActors__/Levels-W1/Untitled/B/ZL/J79MK9K2BX04AP7XCKZ54Q.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/__ExternalActors__/Levels-W1/Untitled/B/T1/MZJVRXNT8OA86VF7UHJ786.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/__ExternalActors__/Levels-W1/Untitled/4/TD/3BMBQEJKHYS5YSZ27A7V08.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/Levels-W1/Untitled.umap",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/Levels-W1/Materials/1-1.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Fonts/Courgette-Regular.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/Levels-W1/Lv1-1.umap",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MenuGM.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MM-BTN.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Sounds/bye-bye-mewing_fMVssQz.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Sounds/hell-naw-dog.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MainMenu.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Fonts/Courgette-Regular_Font.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MM-BTN-HVR.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/Main-Menu/MM-BTN-CLK.uasset",
+				"D:/GittyHubby/Unreal-Game/UnrealGame/NAVIGATE/Content/UI/bye-bye-mewing_fMVssQz.uasset"
+			]
+		}
+	]
+}
