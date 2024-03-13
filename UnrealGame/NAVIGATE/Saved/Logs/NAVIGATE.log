@@ -8964,3 +8964,59 @@ Script Stack (0 frames) :
 [2024.02.07-15.13.18:939][100]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UI/Main-Menu/MM-BTN-CLK.MM-BTN-CLK
 [2024.02.07-15.13.18:940][100]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UI/Main-Menu/MM-BTN.MM-BTN
 [2024.02.07-15.13.18:940][100]LogContentValidation: Display: Validating /Script/Engine.Font /Game/UI/Fonts/Courgette-Regular_Font.Courgette-Regular_Font
+[2024.02.07-15.16.26:629][870]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.07-15.16.26:634][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-15.16.26:634][870]PIE: New page: PIE session: Lv1-1 (Feb 7, 2024, 3:16:26 PM)
+[2024.02.07-15.16.26:655][870]LogPlayLevel: Creating play world package: /Game/Levels-W1/UEDPIE_0_Lv1-1
+[2024.02.07-15.16.26:657][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001496s)
+[2024.02.07-15.16.26:657][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels-W1/Lv1-1.Lv1-1 to /Game/Levels-W1/UEDPIE_0_Lv1-1.Lv1-1 (0.001538s)
+[2024.02.07-15.16.26:657][870]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-15.16.26:657][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-15.16.26:657][870]LogAIModule: Creating AISystem for world Lv1-1
+[2024.02.07-15.16.26:657][870]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2024.02.07-15.16.26:672][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.07-15.16.26:673][870]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.02.07-15.16.26:673][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-15.16.26:673][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-15.16.26:673][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-15.16.26:673][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-15.16.26:673][870]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.07-15.16.26:673][870]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.07-15.16.26:673][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.07-15.16.26:673][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-15.16.26:673][870]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.07-15.16.26:673][870]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.07-15.16.26:673][870]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.07-15.16.26:675][870]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.07-15.16.26:690][870]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.02.07-15.16.26:690][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-15.16.26:690][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-15.16.26:690][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-15.16.26:690][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.02.07-15.16.26:690][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=27
+[2024.02.07-15.16.26:692][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.02.07-15.16.26:692][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.02.07-15.16.26:692][870]LogInit: FAudioDevice initialized with ID 27.
+[2024.02.07-15.16.26:692][870]LogAudio: Display: Audio Device (ID: 27) registered with world 'Lv1-1'.
+[2024.02.07-15.16.26:692][870]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.02.07-15.16.26:696][870]LogLoad: Game class is 'MenuGM_C'
+[2024.02.07-15.16.26:696][870]LogWorld: Bringing World /Game/Levels-W1/UEDPIE_0_Lv1-1.Lv1-1 up for play (max tick rate 0) at 2024.02.07-15.16.26
+[2024.02.07-15.16.26:696][870]LogWorld: Bringing up level for play took: 0.000448
+[2024.02.07-15.16.26:697][870]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.02.07-15.16.26:698][870]PIE: Server logged in
+[2024.02.07-15.16.26:699][870]PIE: Play in editor total start time 0.066 seconds.
+[2024.02.07-15.16.39:146][355]Cmd: quit
+[2024.02.07-15.16.39:146][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-15.16.39:146][355]LogWorld: BeginTearingDown for /Game/Levels-W1/UEDPIE_0_Lv1-1
+[2024.02.07-15.16.39:196][355]LogWorld: UWorld::CleanupWorld for Lv1-1, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-15.16.39:196][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-15.16.39:198][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-15.16.39:200][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-15.16.39:214][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-15.16.39:214][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.02.07-15.16.39:214][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.02.07-15.16.39:215][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.02.07-15.16.39:219][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-15.16.39:220][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.02.07-15.16.39:248][358]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.02.07-15.25.56:732][861]LogDerivedDataCache: C:/Users/kamd_pc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.083 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3858 files in 5006 folders with total size 190 MiB.
