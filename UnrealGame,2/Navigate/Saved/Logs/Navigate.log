@@ -12304,3 +12304,103 @@ Script Stack (0 frames) :
 [2024.04.28-16.00.40:750][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.04.28-16.00.40:753][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
 [2024.04.28-16.00.40:821][362]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.04.28-16.01.58:481][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.28-16.01.58:495][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CA/6N0TNEHB6YQYW6QU09NQ6A_Auto2
+[2024.04.28-16.01.58:495][587]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/6N0TNEHB6YQYW6QU09NQ6A_Auto215364C0F46DEF27E3C5554B697B5621A.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CA/6N0TNEHB6YQYW6QU09NQ6A_Auto2.uasset'
+[2024.04.28-16.01.58:499][587]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2024.04.28-16.01.58:499][587]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2024.04.28-16.01.58:499][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2024.04.28-16.01.58:499][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2024.04.28-16.01.58:505][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto2
+[2024.04.28-16.01.58:505][587]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/BP_ThirdPersonGameMode_Auto2A78A9DFD441E92F28D84EF998DB69A9A.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto2.uasset'
+[2024.04.28-16.01.58:506][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.28-16.01.58:540][587]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.04.28-16.01.58:540][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.04.28-16.01.58:559][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2024.04.28-16.01.58:560][587]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/BP_ThirdPersonCharacter_Auto20F856A464F11A2387C3E6999D4659887.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2024.04.28-16.01.58:561][587]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ui/game-ui] ([2] browsable assets)...
+[2024.04.28-16.01.58:564][587]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ui/game-ui.game-ui]
+[2024.04.28-16.01.58:564][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/game-ui]
+[2024.04.28-16.01.58:564][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/game-ui" FILE="../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/Autosaves/Game/ui/game-ui_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.04.28-16.01.58:587][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ui/game-ui_Auto2
+[2024.04.28-16.01.58:588][587]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/game-ui_Auto2441972094EE3ED04DA7F139B90A8BEF2.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/Autosaves/Game/ui/game-ui_Auto2.uasset'
+[2024.04.28-16.01.58:589][587]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprints/shrinkpowerup] ([2] browsable assets)...
+[2024.04.28-16.01.58:598][587]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/shrinkpowerup.shrinkpowerup]
+[2024.04.28-16.01.58:598][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/shrinkpowerup]
+[2024.04.28-16.01.58:611][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprints/shrinkpowerup_Auto2
+[2024.04.28-16.01.58:612][587]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/shrinkpowerup_Auto242689AA442C5FCE7D4CA7E863EF628B9.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/Autosaves/Game/blueprints/shrinkpowerup_Auto2.uasset'
+[2024.04.28-16.01.58:613][587]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprints/acidtrap] ([2] browsable assets)...
+[2024.04.28-16.01.58:627][587]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/acidtrap.acidtrap]
+[2024.04.28-16.01.58:627][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/acidtrap]
+[2024.04.28-16.01.58:634][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprints/acidtrap_Auto2
+[2024.04.28-16.01.58:634][587]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/acidtrap_Auto2659E64434FEB6F34B817D9905A40C70B.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/Autosaves/Game/blueprints/acidtrap_Auto2.uasset'
+[2024.04.28-16.01.58:635][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/checkpointplat] ([2] browsable assets)...
+[2024.04.28-16.01.58:635][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/checkpointplat]
+[2024.04.28-16.01.58:642][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprints/checkpointplat_Auto2
+[2024.04.28-16.01.58:642][587]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/checkpointplat_Auto232B5DF124280B18377629691A9458080.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/Autosaves/Game/blueprints/checkpointplat_Auto2.uasset'
+[2024.04.28-16.01.58:643][587]LogFileHelpers: Auto-saving content packages took 0.144
+[2024.04.28-16.02.10:200][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.04.28-16.02.10:228][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.28-16.02.11:211][626]LogSlate: Window 'Save Content' being destroyed
+[2024.04.28-16.02.11:216][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.28-16.02.11:239][626]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CA/6N0TNEHB6YQYW6QU09NQ6A
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8M/BFDE9Z12TYMGPFVCWXBA0J
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/I8/DG6WQ2G3YRC1GJCX0BFZOX
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WK/FQU4N8F5VA06ZWDZHB7G3O
+[2024.04.28-16.02.11:239][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.28-16.02.11:242][626]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CA/6N0TNEHB6YQYW6QU09NQ6A
+[2024.04.28-16.02.11:243][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/6N0TNEHB6YQYW6QU09NQ6A59EBCF7D465A62BDD0115ABAC6FAC2CA.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CA/6N0TNEHB6YQYW6QU09NQ6A.uasset'
+[2024.04.28-16.02.11:247][626]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8M/BFDE9Z12TYMGPFVCWXBA0J
+[2024.04.28-16.02.11:247][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/BFDE9Z12TYMGPFVCWXBA0J0A3DEB414A1AFA509E726EBF123AD5D7.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8M/BFDE9Z12TYMGPFVCWXBA0J.uasset'
+[2024.04.28-16.02.11:251][626]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/I8/DG6WQ2G3YRC1GJCX0BFZOX
+[2024.04.28-16.02.11:252][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/DG6WQ2G3YRC1GJCX0BFZOX1B3E8D4941A6E765ED7E718B12217051.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/I8/DG6WQ2G3YRC1GJCX0BFZOX.uasset'
+[2024.04.28-16.02.11:256][626]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WK/FQU4N8F5VA06ZWDZHB7G3O
+[2024.04.28-16.02.11:257][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/FQU4N8F5VA06ZWDZHB7G3OA2B898024A957A419628CF882875C5E7.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WK/FQU4N8F5VA06ZWDZHB7G3O.uasset'
+[2024.04.28-16.02.11:259][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 20 ms (total: 1.29 sec)
+[2024.04.28-16.02.11:259][626]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CA/6N0TNEHB6YQYW6QU09NQ6A
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8M/BFDE9Z12TYMGPFVCWXBA0J
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/I8/DG6WQ2G3YRC1GJCX0BFZOX
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WK/FQU4N8F5VA06ZWDZHB7G3O
+[2024.04.28-16.02.11:276][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.28-16.02.11:283][626]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.04.28-16.02.11:283][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/ThirdPersonMap3CF00D114C9040A7AC3D91B6F7E0B9B7.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.04.28-16.02.11:290][626]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.052
+[2024.04.28-16.02.11:291][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/acidtrap" FILE="../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/blueprints/acidtrap.uasset" SILENT=true
+[2024.04.28-16.02.11:297][626]LogSavePackage: Moving output files for package: /Game/blueprints/acidtrap
+[2024.04.28-16.02.11:297][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/acidtrap46D660194EB335EF244CBCBAE558D68C.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/blueprints/acidtrap.uasset'
+[2024.04.28-16.02.11:318][626]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.28-16.02.11:318][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/BP_ThirdPersonCharacterB0608F0E4985254921645988346E252D.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.28-16.02.11:324][626]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.04.28-16.02.11:324][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/BP_ThirdPersonGameModeA495FF9A4D8FCDF9D637F68A3BFF2893.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.04.28-16.02.11:325][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/checkpointplat" FILE="../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/blueprints/checkpointplat.uasset" SILENT=true
+[2024.04.28-16.02.11:332][626]LogSavePackage: Moving output files for package: /Game/blueprints/checkpointplat
+[2024.04.28-16.02.11:333][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/checkpointplat3193295E4A047F978E80A180A076F940.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/blueprints/checkpointplat.uasset'
+[2024.04.28-16.02.11:337][626]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/I8/DG6WQ2G3YRC1GJCX0BFZOX
+[2024.04.28-16.02.11:337][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/DG6WQ2G3YRC1GJCX0BFZOX29F2127644F730DA3324E18CFBD2E539.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/I8/DG6WQ2G3YRC1GJCX0BFZOX.uasset'
+[2024.04.28-16.02.11:340][626]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8M/BFDE9Z12TYMGPFVCWXBA0J
+[2024.04.28-16.02.11:341][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/BFDE9Z12TYMGPFVCWXBA0J61F36C014160B7A41B6D568DA906D912.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8M/BFDE9Z12TYMGPFVCWXBA0J.uasset'
+[2024.04.28-16.02.11:344][626]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WK/FQU4N8F5VA06ZWDZHB7G3O
+[2024.04.28-16.02.11:345][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/FQU4N8F5VA06ZWDZHB7G3OA2B199EE4E4AB031D11CEDA1B2C56DC5.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WK/FQU4N8F5VA06ZWDZHB7G3O.uasset'
+[2024.04.28-16.02.11:345][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/game-ui" FILE="../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/ui/game-ui.uasset" SILENT=true
+[2024.04.28-16.02.11:356][626]LogSavePackage: Moving output files for package: /Game/ui/game-ui
+[2024.04.28-16.02.11:357][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/game-uiF79262324A9B6F87A4487098D353D0CA.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/ui/game-ui.uasset'
+[2024.04.28-16.02.11:361][626]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CA/6N0TNEHB6YQYW6QU09NQ6A
+[2024.04.28-16.02.11:361][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/6N0TNEHB6YQYW6QU09NQ6AD35E5975436CD18F49F827B8570A8A3D.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CA/6N0TNEHB6YQYW6QU09NQ6A.uasset'
+[2024.04.28-16.02.11:362][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/shrinkpowerup" FILE="../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/blueprints/shrinkpowerup.uasset" SILENT=true
+[2024.04.28-16.02.11:375][626]LogSavePackage: Moving output files for package: /Game/blueprints/shrinkpowerup
+[2024.04.28-16.02.11:375][626]LogSavePackage: Moving '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Saved/shrinkpowerupC4CD71744D48F31A514A1690412A5296.tmp' to '../../../../../GittyHubby/Unreal-Game/UnrealGame,2/Navigate/Content/blueprints/shrinkpowerup.uasset'
+[2024.04.28-16.02.11:384][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 1.45 sec)
+[2024.04.28-16.02.11:389][626]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.28-16.02.11:389][626]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.28-16.02.11:389][626]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.04.28-16.02.11:390][626]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ui/game-ui.game-ui
+[2024.04.28-16.02.11:390][626]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/blueprints/shrinkpowerup.shrinkpowerup
+[2024.04.28-16.02.11:390][626]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.04.28-16.02.11:390][626]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/blueprints/acidtrap.acidtrap
+[2024.04.28-16.02.11:390][626]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/blueprints/checkpointplat.checkpointplat
+[2024.04.28-16.02.11:390][626]LogContentValidation: Display: Validating /Game/blueprints/checkpointplat.checkpointplat_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.checkpointplat_C_UAID_74563CA11A230DF001_1313450887
+[2024.04.28-16.02.11:390][626]LogContentValidation: Display: Validating /Game/blueprints/checkpointplat.checkpointplat_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.checkpointplat_C_UAID_74563CA11A23FEEF01_1494415247
+[2024.04.28-16.02.11:390][626]LogContentValidation: Display: Validating /Game/blueprints/checkpointplat.checkpointplat_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.checkpointplat_C_UAID_74563CA11A2309F001_2109887186
+[2024.04.28-16.02.11:390][626]LogContentValidation: Display: Validating /Game/blueprints/shrinkpowerup.shrinkpowerup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.shrinkpowerup_C_UAID_74563CA11A23F4EE01_1347275431
